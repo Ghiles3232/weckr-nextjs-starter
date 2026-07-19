@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial">
+  <rect width="900" height="520" rx="12" fill="#0a0a0a"/>
+  <rect x="0" y="0" width="900" height="44" rx="12" fill="#111111"/>
+  <rect x="0" y="30" width="900" height="14" fill="#111111"/>
+  <circle cx="26" cy="22" r="5" fill="#3a3a3a"/>
+  <circle cx="46" cy="22" r="5" fill="#3a3a3a"/>
+  <circle cx="66" cy="22" r="5" fill="#3a3a3a"/>
+  <rect x="120" y="12" width="420" height="20" rx="10" fill="#1a1a1a"/>
+  <text x="140" y="26" fill="#6b6b6b" font-size="12">localhost:3000/dashboard</text>
+
+  <text x="40" y="96" fill="#e6e6e6" font-size="26" font-weight="600">Dashboard</text>
+  <rect x="700" y="76" width="160" height="34" rx="8" fill="#111111" stroke="#1e1e1e"/>
+  <text x="726" y="98" fill="#b9b9b9" font-size="13">Upgrade to Pro</text>
+
+  <g>
+    <rect x="40" y="132" width="255" height="96" rx="10" fill="#111111" stroke="#1e1e1e"/>
+    <text x="60" y="164" fill="#6b6b6b" font-size="12">Total cost</text>
+    <text x="60" y="200" fill="#e6e6e6" font-size="26" font-weight="600">$4.21</text>
+  </g>
+  <g>
+    <rect x="322" y="132" width="256" height="96" rx="10" fill="#111111" stroke="#1e1e1e"/>
+    <text x="342" y="164" fill="#6b6b6b" font-size="12">Requests</text>
+    <text x="342" y="200" fill="#e6e6e6" font-size="26" font-weight="600">1,284</text>
+  </g>
+  <g>
+    <rect x="605" y="132" width="255" height="96" rx="10" fill="#111111" stroke="#1e1e1e"/>
+    <text x="625" y="164" fill="#6b6b6b" font-size="12">Margin</text>
+    <text x="625" y="200" fill="#22c55e" font-size="26" font-weight="600">$83.79</text>
+  </g>
+
+  <rect x="40" y="252" width="820" height="220" rx="10" fill="#111111" stroke="#1e1e1e"/>
+  <text x="60" y="284" fill="#8a8a8a" font-size="13">Try the AI feature</text>
+  <rect x="60" y="300" width="780" height="96" rx="8" fill="#0a0a0a" stroke="#1e1e1e"/>
+  <text x="76" y="326" fill="#e6e6e6" font-size="14">Draft a friendly onboarding email for a new user.</text>
+  <text x="76" y="352" fill="#5a5a5a" font-size="13">Reply attributed to this user and priced by Weckr on the server.</text>
+  <rect x="60" y="416" width="96" height="36" rx="8" fill="#F59E0B"/>
+  <text x="92" y="439" fill="#0a0a0a" font-size="14" font-weight="600">Send</text>
+  <text x="176" y="439" fill="#5a5a5a" font-size="12">Powered by Weckr</text>
+</svg>
