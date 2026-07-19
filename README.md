@@ -60,6 +60,8 @@ cp .env.example .env.local
 
 You need a Weckr key, an OpenAI key, and your Supabase project url and anon key. Stripe is optional and only powers the upgrade button.
 
+Supabase here is only the example auth, the piece that produces the user id and plan. Weckr never touches your database, so any auth or storage works just as well. Swap in Clerk, Auth.js, Firebase, or a plain Postgres table and the wrapped call does not change. The FastAPI starter in fact runs the same integration on SQLite with no Supabase at all.
+
 4. Run it.
 
 ```bash
